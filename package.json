@@ -1,0 +1,17 @@
+{
+  "name": "arc-ish-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "An arc-ish syntax theme.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "arc",
+    "dark"
+  ],
+  "repository": "https://github.com/peterkeep/arcish-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
