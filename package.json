@@ -1,7 +1,7 @@
 {
   "name": "arc-ish-syntax",
   "theme": "syntax",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "An arc-ish syntax theme. This syntax theme works well with the Atom Minimal UI.",
   "keywords": [
     "syntax",
